@@ -1,0 +1,4 @@
+D:\Rishit computers Ltd\project\EvenNumbers\EvenNumbers\bin\Debug\EvenNumbers.exe
+D:\Rishit computers Ltd\project\EvenNumbers\EvenNumbers\bin\Debug\EvenNumbers.pdb
+D:\Rishit computers Ltd\project\EvenNumbers\EvenNumbers\obj\x86\Debug\EvenNumbers.exe
+D:\Rishit computers Ltd\project\EvenNumbers\EvenNumbers\obj\x86\Debug\EvenNumbers.pdb
